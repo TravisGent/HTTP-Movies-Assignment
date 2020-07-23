@@ -75,3 +75,16 @@ body {
   color: red;
   text-align: center;
 }
+
+.editButton {
+  background-color: lightseagreen;
+  padding: 1%;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+.updateForm {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
